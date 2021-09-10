@@ -1,0 +1,10 @@
+*{ 
+    font-family: Arial, Helvetica, sans-serif
+    ;
+    font-size: 16px;
+
+}
+body{
+    background-color: rgb(111, 241, 150);
+}
+main{ background-color: cornflowerblue;}
